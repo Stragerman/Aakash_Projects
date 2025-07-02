@@ -1,0 +1,3 @@
+/*Query to delete user*/
+[select * from 
+ users where usr_id ='12345'];
