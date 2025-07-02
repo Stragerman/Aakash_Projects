@@ -1,4 +1,7 @@
-V3: This was what i'm looking is to see how the version control works,
+V4: What is a Repository
+A repository is a storage location for your project's code, documentation, and other files. It serves as a central hub for collaboration, version control, and code management. It allows multiple people to work on the same project without overwriting each other's work.
+
+Learn more from the following resources:
 
 History
 V3: This version removed the content of the V2, and replaced the comments
