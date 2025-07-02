@@ -1,0 +1,4 @@
+/*delete query to delete the roles*/
+[select * from 
+roles
+where role_id='1234'];
